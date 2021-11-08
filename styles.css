@@ -1,5 +1,10 @@
 header {
     background-color: bisque;
+    height: 9%;
+}
+
+main {
+    height: 90%;
 }
 
 h1 {
