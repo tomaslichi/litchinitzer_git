@@ -1,5 +1,5 @@
 header {
-    background-color: bisque;
+    background-color: rgb(255, 196, 245);
     height: 9%;
 }
 
@@ -14,4 +14,8 @@ h1 {
 
 footer {
     background-color: rgb(95, 173, 192);
+}
+
+.negrita {
+    font-weight: bold;
 }
